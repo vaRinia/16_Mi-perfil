@@ -1,0 +1,74 @@
+* {
+	font-family: 'Oswald'
+}
+.back {
+	background-image: url("../img/oaxaca 2010-10-07 023.jpg"); 
+	background-repeat: no-repeat;
+	height: 400px;
+	/*width: 100%;*/
+	padding-top: 5%;
+
+}
+section {
+	margin-bottom: 30px;
+	padding: 30px 150px;
+}
+.sec-uno {
+	background-image: url("../img/tile1.png"); 
+}
+.perfil { 
+	width: 100%;
+	border: 1px solid gray;
+	padding: 3px;
+
+}
+
+.sec-dos img {
+	width: 200px;
+	height: 200px;
+}
+.img-circ {
+	border-radius: 100%;
+}
+.borde {
+	border: 1px solid orange;
+	padding: 3px;
+}
+a {
+	text-decoration: none;
+	font-size: 1em;
+	color: black;
+}
+ul {
+	list-style: none;
+}
+li {
+	display: inline-block;
+	width: 150px;
+	margin: 15px 0px;
+	text-align: center;
+}
+footer img {
+	width: 150px;
+	margin: 0px 30px;
+}
+footer{
+	
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-top: 50px;
+	background-image: url("../img/tile2.png");
+}
+h1 {
+	margin: 10px 0px;
+	font-size: 4em;
+	color: #29282B;
+}
+h2 {
+	color: #29282B;
+	margin-bottom: 15px;
+}
+h3 {
+	margin-bottom: 20px;
+}
+
